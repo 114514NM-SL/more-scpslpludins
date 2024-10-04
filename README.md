@@ -1,3 +1,5 @@
+# AWA
+此项目已被放弃，将不再更新和维护bug
 # more-scpslpludins
 包含了很多插件的插件
 # NB
